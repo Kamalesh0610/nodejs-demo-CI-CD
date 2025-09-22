@@ -53,15 +53,15 @@ docker run -p 3000:3000 kamalesh0610/nodejs-demo-app:latest
 ## 📸 Screenshots
 
 > - Running the Production Build via serve
-![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/Screenshot/01.png)
+![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/ScreenShot/1.png)
 
 
 > - Running the Production Build via serve
-![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/Screenshot/02.png)
+![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/ScreenShot/2.png)
 
 
 > - Running the Production Build via serve
-![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/Screenshot/03.png)
+![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/ScreenShot/3.png)
 
 ## 🏁 Getting Started
 
@@ -74,11 +74,3 @@ docker run -p 3000:3000 kamalesh0610/nodejs-demo-app:latest
 
 - Store DockerHub credentials as GitHub repository secrets: `DOCKER_USERNAME`, `DOCKER_PASSWORD`.
 
-## 📤 Submission
-
-Submit your GitHub repo link as per the guidelines.
-
----
-
-> - Running the Production Build via serve
-![image alt](https://github.com/Kamalesh0610/Brain-Tasks-App/blob/main/Screenshot/01.png)
