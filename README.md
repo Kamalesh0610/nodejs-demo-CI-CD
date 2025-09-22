@@ -32,8 +32,8 @@ The pipeline is defined in [.github/workflows/main.yml](.github/workflows/main.y
 To build and run locally:
 
 ```sh
-docker build -t nodejs-demo-app .
-docker run -p 3000:3000 nodejs-demo-app
+docker push kamalesh0610/nodejs-demo-app:latest
+docker run -p 3000:3000 kamalesh0610/nodejs-demo-app:latest
 ```
 
 ## 📝 How It Works
@@ -49,32 +49,19 @@ docker run -p 3000:3000 nodejs-demo-app
 - `package.json` — Project metadata and dependencies
 - `ScreenShot/` — Screenshots 
 
-## 📚 Interview Questions Reference
-
-- What is CI/CD?
-- How do GitHub Actions work?
-- What are runners?
-- Difference between jobs and steps.
-- How to secure secrets in GitHub Actions?
-- How to handle deployment errors?
-- Explain the Docker build-push workflow.
-- How can you test a CI/CD pipeline locally?
 
 ## 📸 Screenshots
 
 > - Running the Production Build via serve
-![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD
-/blob/main/Screenshot/01.png)
+![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/Screenshot/01.png)
 
 
 > - Running the Production Build via serve
-![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD
-/blob/main/Screenshot/02.png)
+![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/Screenshot/02.png)
 
 
 > - Running the Production Build via serve
-![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD
-/blob/main/Screenshot/03.png)
+![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/Screenshot/03.png)
 
 ## 🏁 Getting Started
 
