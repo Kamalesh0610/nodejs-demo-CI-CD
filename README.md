@@ -52,15 +52,15 @@ docker run -p 3000:3000 kamalesh0610/nodejs-demo-app:latest
 
 ## 📸 Screenshots
 
-> - Running the Production Build via serve
+> - CI CD Workflow
 ![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/ScreenShot/1.png)
 
 
-> - Running the Production Build via serve
+> - Docker Repositories
 ![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/ScreenShot/2.png)
 
 
-> - Running the Production Build via serve
+> - Running the App via local serve
 ![image alt](https://github.com/Kamalesh0610/nodejs-demo-CI-CD/blob/main/ScreenShot/3.png)
 
 ## 🏁 Getting Started
